@@ -125,3 +125,12 @@ dmypy.json
 .pyre/
 data_scraping/bills.zip
 data_scraping/bills.json
+ir-evaluation/18_scope.ipynb
+ir-evaluation/18_scope-Copy1.ipynb
+ir-evaluation/17_scope.ipynb
+ir-evaluation/16_scope.ipynb
+ir-evaluation/15_scope.ipynb
+ir-evaluation/14_scope.ipynb
+ir-evaluation/13_scope.ipynb
+data/rec_scope.pkl
+data/pres_scope.pkl
